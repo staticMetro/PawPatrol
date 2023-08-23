@@ -1,5 +1,5 @@
 # PawPatrol
-iOS Mobile App for your personal gaming backlog. Keep track of your backlog and play your favorite games
+iOS Mobile App for Pet Adoption. Adopt a pet, change a life
 
 <!-- Improved compatibility of back-to-top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -87,7 +87,7 @@ iOS Mobile App for your personal gaming backlog. Keep track of your backlog and 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Game Shelf is a conceptual iPhone app for tracking and managing your gaming backlog. I wanted to create an experience that was similar to a to-do app, except instead of to-dos, you have games. With Game Shelf, you can easily organize your games into different categories like In Progress, Up Next, Wish List, or Shelved. You can mark games as completed and indicate which games are your all-time favorites. It's a perfect companion for managing that stubborn gaming backlog.
+Pet owners would appreciate a mobile app that helps them take care of their furry friends. The app can provide information on pet health, nutrition, and behavior. You can also schedule appointments and reminders for vaccinations, grooming, and vet visits. PetPal is your personal pet assistant & search engine for pet adoptions
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
