@@ -41,7 +41,7 @@ iOS Mobile App for Pet Adoption. Adopt a pet, change a life
   <h3 align="center">PawPatrol</h3>
 
   <p align="center">
-    Your own digital Gaming Shelf
+    Pet Adoption made simple
     <br />
     <a href="Periodic"><strong>Explore the docs »</strong></a>
     <br />
